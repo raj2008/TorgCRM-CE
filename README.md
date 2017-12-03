@@ -8,3 +8,5 @@ TorgCRM Comunity Edition
 
 ###### Developer branch status
 ![](https://travis-ci.org/torgcrm/TorgCRM-CE.svg?branch=developer) [Test on Heroku](https://torgcrmce-developer.herokuapp.com)
+
+https://www.youtube.com/watch?v=zYOneAbZkPM
